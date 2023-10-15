@@ -1,2 +1,5 @@
-CLI新建一个Component:
+CLI创建Component:
 ng generate component home --standalone --inline-template --skip-tests
+
+CLI创建Interface:
+ng generate interface housingLocation
