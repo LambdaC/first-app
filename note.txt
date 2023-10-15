@@ -1,0 +1,2 @@
+CLI新建一个Component:
+ng generate component home --standalone --inline-template --skip-tests
