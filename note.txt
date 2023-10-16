@@ -3,3 +3,6 @@ ng generate component home --standalone --inline-template --skip-tests
 
 CLI创建Interface:
 ng generate interface housingLocation
+
+CLI创建Service:
+ng generate service housing --skip-tests
