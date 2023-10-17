@@ -1,3 +1,6 @@
+全局安装Angular CLI:
+npm install -g @angular/cli
+
 CLI创建Component:
 ng generate component home --standalone --inline-template --skip-tests
 
@@ -6,3 +9,6 @@ ng generate interface housingLocation
 
 CLI创建Service:
 ng generate service housing --skip-tests
+
+全局安装json-server:
+npm install -g json-server
